@@ -48,9 +48,9 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 - *Can Large Language Models Learn Conceptual Modeling by Looking at Slide Decks and Pass Graduate Examinations? An Empirical Study* (EmpER @ ER, 2024) : https://link.springer.com/chapter/10.1007/978-3-031-75599-6_15
 
 ## ✍️ Blog Posts
-- **Building FineWeb-Legal: A 10B Token Pilot** : https://personal-website-orcin-alpha-29.vercel.app/posts/fineweb-legal
-- **Turning agent-based models into empathetic stories (without getting poetic)** : https://personal-website-orcin-alpha-29.vercel.app/posts/promoting_empathy
-- **Can LLMs learn conceptual modeling from slide decks?** : https://personal-website-orcin-alpha-29.vercel.app/posts/llms-conceptual-modeling
+- **Building FineWeb-Legal: A 10B Token Pilot** : https://noe-flandre.vercel.app/posts/fineweb-legal
+- **Turning agent-based models into empathetic stories (without getting poetic)** : https://noe-flandre.vercel.app/posts/promoting_empathy
+- **Can LLMs learn conceptual modeling from slide decks?** : https://noe-flandre.vercel.app/posts/llms-conceptual-modeling
 
 
 
