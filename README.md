@@ -84,7 +84,7 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 ## 🤝 Let’s collaborate
 If you’re building **LLMs, data pipelines**, **VLM fine-tuning**, or anything that smells like **“AI research”**, I’m in.
 
-- Website: https://personal-website-orcin-alpha-29.vercel.app/  
+- Website: https://noe-flandre.vercel.app/ 
 - Hugging Face: https://huggingface.co/NoeFlandre  
 - X: https://x.com/NoeFlandre  
 - Email: noeflandre@gmail.com
