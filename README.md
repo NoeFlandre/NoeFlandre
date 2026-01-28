@@ -3,7 +3,6 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 -->
 
 <div align="center">
-  <img src="https://github.com/NoeFlandre.png" width="120" height="120" style="border-radius: 50%;" alt="Noé Flandre" />
   
   # Noé Flandre
   
