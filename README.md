@@ -76,10 +76,11 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=NoeFlandre&theme=github-compact&hide_border=true&area=true&radius=16&height=300&custom_title=Activity%20Graph&v=2"
-    alt="Activity Graph"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=NoeFlandre&hide_border=true"
+    alt="Contribution Graph"
   />
 </div>
+
 
 
 ---
