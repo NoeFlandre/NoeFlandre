@@ -69,10 +69,7 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 </p>
 
 ## 📈 Stats (couldn't resist for some neat plots)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoeFlandre&show_icons=true&hide_border=true" height="155" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoeFlandre&layout=compact&hide_border=true&langs_count=6" height="155" alt="Top Languages" />
-</div>
+
 
 <div align="center">
   <img
