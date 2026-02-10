@@ -35,6 +35,8 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
   → datasets/models: https://huggingface.co/NoeFlandre
 - **🧠 GPT-2 From Scratch** : learning by building (DDP, training, eval, pain & joy thanks to Karpathy)  
   → https://github.com/NoeFlandre/GPT2-From-Scratch
+- **🧠 Transformer From Scratch** : learning by building (again), following Umar Jamil tutorial  
+  → https://github.com/NoeFlandre/transformer-from-scratch
 - **🗺️ mini-geo-parse** : very simple and tiny geoparsing pipeline (LLMs → locations → coordinates)  
   → https://github.com/NoeFlandre/mini-geo-parse
 - **🖼️ nanoclip** : CLIP from scratch + training experiments  
