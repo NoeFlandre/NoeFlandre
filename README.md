@@ -12,7 +12,7 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
   </p>
 
   <p>
-    <a href="https://personal-website-orcin-alpha-29.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-visit-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+    <a href="[https://noeflandre.com](https://noeflandre.com)/"><img alt="Website" src="https://img.shields.io/badge/Website-visit-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
     <a href="https://huggingface.co/NoeFlandre"><img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-profile-000?style=for-the-badge&logo=huggingface&logoColor=white"></a>
     <a href="https://scholar.google.com/citations?user=NOvshPMAAAAJ&hl=en"><img alt="Scholar" src="https://img.shields.io/badge/Google%20Scholar-papers-000?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
     <a href="https://x.com/NoeFlandre"><img alt="X" src="https://img.shields.io/badge/X-@NoeFlandre-000?style=for-the-badge&logo=x&logoColor=white"></a>
