@@ -7,7 +7,7 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
   # Noé Flandre
   
   <p>
-    <b>AI Research Engineer</b> · Toulouse, France · <i>vibe-learning</i><br/>
+    <b>AI Research Engineer</b> · Montpellier, France · <i>vibe-learning</i><br/>
     Daily meal: <b>curating datasets</b> & <b>training models</b> 🍜🤖
   </p>
 
