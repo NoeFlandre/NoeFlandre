@@ -26,7 +26,7 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 
 ## 🧪 What I’m into
 - **LLM data**: harvesting → filtering → labeling → training (and pushing it on HF 🤗).
-- **Multimodal**: VLM fine-tuning, evaluation, and “does it actually work in the wild?” benchmarks.
+- **Multimodal**: VLM fine-tuning, evaluation, benchmarks....
 - **Maximizing my learning curve**: One chaï and one video of king Karpathy and I got my weekend covered.
 
 ## 🚀 Some side projects
