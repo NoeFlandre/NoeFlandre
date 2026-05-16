@@ -46,6 +46,7 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 
 
 ## 📚 Publications
+- *Distilling the Complexity of Agent-Based Simulations into Textual Explanations via Large Language Models: https://www.mdpi.com/2504-2289/10/4/121
 - *Promoting empathy in decision-making by turning agent-based models into stories using large-language models* (Journal of Simulation, 2025)  : https://www.researchgate.net/publication/395240074_Promoting_empathy_in_decision-making_by_turning_agent-based_models_into_stories_using_large-language_models
 - *Can Large Language Models Learn Conceptual Modeling by Looking at Slide Decks and Pass Graduate Examinations? An Empirical Study* (EmpER @ ER, 2024) : https://link.springer.com/chapter/10.1007/978-3-031-75599-6_15
 
