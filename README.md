@@ -25,20 +25,16 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 ---
 
 ## 🧪 What I’m into
-- **LLM data**: harvesting → filtering → labeling → training (and pushing it on HF 🤗).
+- **Data**: harvesting → filtering → labeling → training (and pushing it on HF 🤗).
 - **Multimodal**: VLM fine-tuning, evaluation, benchmarks....
 - **Maximizing my learning curve**: One chaï and one video of king Karpathy and I got my weekend covered.
 
 ## 🚀 Some side projects
-- **🏛️ FineWeb-Legal** : legal-domain extraction pipeline + classifier-trained filtering  
-  → repo: https://github.com/NoeFlandre/fineweb-legal  
-  → datasets/models: https://huggingface.co/NoeFlandre
-- **🧠 GPT-2 From Scratch** : learning by building (DDP, training, eval, pain & joy thanks to Karpathy)  
+
+- **🧠 GPT-2 From Scratch** : learning by building (DDP, training, eval, thanks to Karpathy)  
   → https://github.com/NoeFlandre/GPT2-From-Scratch
 - **🧠 Transformer From Scratch** : learning by building (again), following Umar Jamil tutorial  
   → https://github.com/NoeFlandre/transformer-from-scratch
-- **🗺️ mini-geo-parse** : very simple and tiny geoparsing pipeline (LLMs → locations → coordinates)  
-  → https://github.com/NoeFlandre/mini-geo-parse
 - **🖼️ nanoclip** : CLIP from scratch + training experiments  
   → https://github.com/NoeFlandre/nanoclip
 - **🧨 JailBreak-DeepSeek** : jailbreak robustness evaluation playground  
@@ -53,10 +49,8 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 
 ## ✍️ Blog Posts
 - **One place, two views: the core idea behind GeoReasoner** : https://noeflandre.com/posts/georeasoner
-- **Building FineWeb-Legal: A 10B Token Pilot** : https://noeflandre.com/posts/fineweb-legal
-- **Turning agent-based models into empathetic stories (without getting poetic)** : https://noeflandre.com/posts/promoting_empathy
-- **Can LLMs learn conceptual modeling from slide decks?** : https://noeflandre.com/posts/llms-conceptual-modeling
-
+- **An AI survival guide** : https://noeflandre.com/posts/survival_guide_in_ai
+- **What Is Design of Experiments? Learning It Through a Better Cup of Chai** : https://noeflandre.com/posts/design-of-experiments
 
 
 
