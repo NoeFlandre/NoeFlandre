@@ -31,13 +31,15 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 
 ## 🚀 Some side projects
 
-- **🧠 GPT-2 From Scratch** : learning by building (DDP, training, eval, thanks to Karpathy)  
+- **🌍 OSM polygons -> Wikidata geolocated text** : linking OpenStreetMap polygons with geolocated text from Wikipedia and Wikivoyage articles  
+  → https://github.com/NoeFlandre/osm-polygon-wikidata-only
+- **🧠 GPT-2 From Scratch** : coding a GPT-2 like model from scratch and training it (following Karpathy's tutorial)  
   → https://github.com/NoeFlandre/GPT2-From-Scratch
-- **🧠 Transformer From Scratch** : learning by building (again), following Umar Jamil tutorial  
+- **🧠 Transformer From Scratch** : coding a transformer from scratch, following Umar Jamil tutorial  
   → https://github.com/NoeFlandre/transformer-from-scratch
 - **🖼️ nanoclip** : CLIP from scratch + training experiments  
   → https://github.com/NoeFlandre/nanoclip
-- **🧨 JailBreak-DeepSeek** : jailbreak robustness evaluation playground  
+- **🧨 JailBreak-DeepSeek** : jailbreak / red teaming of DeepSeek models. This was a project I worked on while studying at IIT Bombay.  
   → https://github.com/NoeFlandre/JailBreak-DeepSeek
 
 
@@ -48,7 +50,7 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 - *Can Large Language Models Learn Conceptual Modeling by Looking at Slide Decks and Pass Graduate Examinations? An Empirical Study* (EmpER @ ER, 2024) : https://link.springer.com/chapter/10.1007/978-3-031-75599-6_15
 
 ## ✍️ Blog Posts
-- **One place, two views: the core idea behind GeoReasoner** : https://noeflandre.com/posts/georeasoner
+- **How to describe a place on Earth using text? Part 1: wikidata** : https://noeflandre.com/posts/describe-place-on-earth-part1-wikidata
 - **An AI survival guide** : https://noeflandre.com/posts/survival_guide_in_ai
 - **What Is Design of Experiments? Learning It Through a Better Cup of Chai** : https://noeflandre.com/posts/design-of-experiments
 
