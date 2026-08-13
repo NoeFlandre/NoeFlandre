@@ -29,6 +29,12 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 - **Multimodal**: VLM fine-tuning, evaluation, benchmarks....
 - **Maximizing my learning curve**: One chaï and one video of king Karpathy and I got my weekend covered.
 
+## 📚 Publications
+- *Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows* : https://arxiv.org/abs/2606.21565
+- *Distilling the Complexity of Agent-Based Simulations into Textual Explanations via Large Language Models* : https://www.mdpi.com/2504-2289/10/4/121
+- *Promoting empathy in decision-making by turning agent-based models into stories using large-language models* (Journal of Simulation, 2025)  : https://www.researchgate.net/publication/395240074_Promoting_empathy_in_decision-making_by_turning_agent-based_models_into_stories_using_large-language_models
+- *Can Large Language Models Learn Conceptual Modeling by Looking at Slide Decks and Pass Graduate Examinations? An Empirical Study* (EmpER @ ER, 2024) : https://link.springer.com/chapter/10.1007/978-3-031-75599-6_15
+
 ## 🚀 Some side projects
 
 - **🌍 OSM polygons -> Wikidata geolocated text** : linking OpenStreetMap polygons with geolocated text from Wikipedia and Wikivoyage articles  
@@ -41,13 +47,6 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
   → https://github.com/NoeFlandre/nanoclip
 - **🧨 JailBreak-DeepSeek** : jailbreak / red teaming of DeepSeek models. This was a project I worked on while studying at IIT Bombay.  
   → https://github.com/NoeFlandre/JailBreak-DeepSeek
-
-
-## 📚 Publications
-- *Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows* : https://arxiv.org/abs/2606.21565
-- *Distilling the Complexity of Agent-Based Simulations into Textual Explanations via Large Language Models* : https://www.mdpi.com/2504-2289/10/4/121
-- *Promoting empathy in decision-making by turning agent-based models into stories using large-language models* (Journal of Simulation, 2025)  : https://www.researchgate.net/publication/395240074_Promoting_empathy_in_decision-making_by_turning_agent-based_models_into_stories_using_large-language_models
-- *Can Large Language Models Learn Conceptual Modeling by Looking at Slide Decks and Pass Graduate Examinations? An Empirical Study* (EmpER @ ER, 2024) : https://link.springer.com/chapter/10.1007/978-3-031-75599-6_15
 
 ## ✍️ Blog Posts
 - **How to describe a place on Earth using text? Part 1: wikidata** : https://noeflandre.com/posts/describe-place-on-earth-part1-wikidata
