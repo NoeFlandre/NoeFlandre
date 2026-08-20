@@ -87,7 +87,12 @@ Hi! If you're reading this in raw form: this is my GitHub profile README ✨
 ## 🤝 Let’s collaborate
 If you’re building **LLMs, data pipelines**, **VLM fine-tuning**, or anything that smells like **“AI research”**, I’m in.
 
-- Website: https://noeflandre.com 
-- Hugging Face: https://huggingface.co/NoeFlandre  
-- X: https://x.com/NoeFlandre  
-- Email: noeflandre@gmail.com
+- WEBSITE : https://noeflandre.com
+- HUGGING FACE : https://huggingface.co/NoeFlandre
+- GITHUB : https://github.com/NoeFlandre
+- GOOGLE SCHOLAR : https://scholar.google.com/citations?user=NOvshPMAAAAJ&hl=en
+- ORCID: https://orcid.org/0009-0002-0237-3727
+- SEMANTIC SCHOLAR : https://www.semanticscholar.org/author/No%C3%A9-Y.-Flandre/2330172377
+- X : https://x.com/NoeFlandre
+- YOUTUBE: https://youtube.com/@noeflandre?si=9E3iENhUquio5H7M
+- ALPHAXIV: https://www.alphaxiv.org/@noe-y-flandre
